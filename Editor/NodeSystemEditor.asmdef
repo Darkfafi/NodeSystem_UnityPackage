@@ -1,0 +1,17 @@
+{
+    "name": "NodeSystemEditor",
+    "references": [
+        "GUID:44f2404ce1380b64b92c37ae71faa1fd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
